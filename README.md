@@ -6,7 +6,7 @@ API en Flask para buscar Pokémon, guardar favoritos y obtener tu Pokémon segú
 #### Opción 1- Ejecutar con Docker:
 1. Clonar el repositorio                      
 git clone https://github.com/mariamachado123/Pokemon-Flask                       
-cd RETO1
+cd Pokemon-Flask
 
 
 2. Levantar el contenedor:                    
@@ -14,7 +14,7 @@ docker-compose up --build
 #### Opción 2- Ejecutar sin Docker:
 1. Clonar el repositorio
 git clone https://github.com/mariamachado123/Pokemon-Flask       
-cd RETO1/app
+cd Pokemon-Flask/app
 
 
 2. Ejecutar localmente:                   
