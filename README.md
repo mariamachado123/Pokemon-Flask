@@ -14,15 +14,15 @@ docker-compose up --build
 #### Opción 2- Ejecutar sin Docker:
 1. Clonar el repositorio
 git clone https://github.com/mariamachado123/Pokemon-Flask       
-cd Pokemon-Flask/app
+cd Pokemon-Flask\app
 
 
 2. Ejecutar localmente:                   
 pip install flask requests                
-cd RETO1/app                   
+cd Pokemon-Flask\app                   
 python main.py
 
-![img_1.png](app/img_1.png)
+![img.png](img.png)
 
 ### EndPoints
 

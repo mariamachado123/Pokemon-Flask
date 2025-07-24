@@ -2,7 +2,7 @@ import json
 from pathlib import Path
 
 BASE_DIR = Path(__file__).resolve().parent.parent
-FAVORITOS_FILE = BASE_DIR / "data" / "favoritos.json"
+FAVORITOS_FILE = BASE_DIR / "utils" / "favoritos.json"
 def cargar_favoritos():
     if FAVORITOS_FILE.exists():
         try:
