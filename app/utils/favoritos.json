@@ -1,0 +1,21 @@
+{
+  "Ash": [
+    {
+      "id": 1,
+      "pokemon": {
+        "nombre": "charizard",
+        "imagen": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/6.png",
+        "tipo": [
+          "fire",
+          "flying"
+        ],
+        "altura": 17,
+        "peso": 905,
+        "habilidades": [
+          "blaze",
+          "solar-power"
+        ]
+      }
+    }
+  ]
+}
